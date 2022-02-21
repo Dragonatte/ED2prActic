@@ -17,4 +17,8 @@ public class RodrigoMurilloMusica {
 	public  String getTitulo() {
 		return titulo;
 	}
+	
+	public void setNMinutos(int nMinutos) {
+		this.nMinutos=nMinutos;
+	}
 }
