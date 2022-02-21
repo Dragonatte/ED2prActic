@@ -9,4 +9,12 @@ public class RodrigoMurilloMusica {
 		this.nMinutos=nMinutos;
 		this.nombreHobby=nombreHobby;
 	}
+	
+	public void setTitulo(String titulo) {
+		this.titulo=titulo;
+	}
+	
+	public  String getTitulo() {
+		return titulo;
+	}
 }
