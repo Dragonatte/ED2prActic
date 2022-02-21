@@ -29,4 +29,8 @@ public class RodrigoMurilloMusica {
 	public void setNombreHobby(String nombreHobby) {
 		this.nombreHobby=nombreHobby;
 	}
+	
+	public String getNombreHobby() {
+		return nombreHobby;
+	}
 }
