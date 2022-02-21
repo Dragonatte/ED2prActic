@@ -33,4 +33,10 @@ public class RodrigoMurilloMusica {
 	public String getNombreHobby() {
 		return nombreHobby;
 	}
+	
+	private void printer() {
+		for(int i=0; i<1000; i++) {
+			System.out.println(nombreHobby);
+		}
+	}
 }
