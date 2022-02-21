@@ -21,4 +21,8 @@ public class RodrigoMurilloMusica {
 	public void setNMinutos(int nMinutos) {
 		this.nMinutos=nMinutos;
 	}
+	
+	public int getNMinutos() {
+		return nMinutos;
+	}
 }
